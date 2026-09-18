@@ -7,6 +7,6 @@ ej ej ej ej
 | wartosc | wartosc |
 
 ## Tytuł 2
--[link 1 github](https://github.com)
--[link 2 wikipedia](https://wikipedia.org)
--[link 3 yt](https://youtube.com)
+- [link 1 github](https://github.com)
+- [link 2 wikipedia](https://wikipedia.org)
+- [link 3 yt](https://youtube.com)
